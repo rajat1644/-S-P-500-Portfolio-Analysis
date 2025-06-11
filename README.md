@@ -11,6 +11,16 @@ This project demonstrates a complete end-to-end **portfolio analysis** workflow 
 
 ---
 
+## 📈 Key Features & Insights
+
+- 🔄 5-Year time series for all S&P 500 stocks
+- 📉 Risk evaluation using volatility, Sharpe Ratio, beta
+- 🔍 EDA with industry breakdown, outliers, and top performers
+- 📊 ARIMA-based stock price forecasting
+- 📑 PostgreSQL integration with reusable queries
+- 📎 Visual and Excel-based dashboard reporting
+
+---
 ## 📂 Folder Structure
 S&P500-Portfolio-Analysis/
 ├── data/ # Raw and cleaned datasets
@@ -59,16 +69,7 @@ S&P500-Portfolio-Analysis/
 
 ---
 
-## 📈 Key Features & Insights
 
-- 🔄 5-Year time series for all S&P 500 stocks
-- 📉 Risk evaluation using volatility, Sharpe Ratio, beta
-- 🔍 EDA with industry breakdown, outliers, and top performers
-- 📊 ARIMA-based stock price forecasting
-- 📑 PostgreSQL integration with reusable queries
-- 📎 Visual and Excel-based dashboard reporting
-
----
 📌 Author
 Mihir Watrana
 B.E. Computer Science | UIET, Panjab University
