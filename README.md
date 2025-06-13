@@ -107,4 +107,4 @@ Filtered for S&P 500 tickers and joined with sector info.
 📌 Author
 Mihir Watrana
 B.E. Computer Science | UIET, Panjab University
-GitHub: https://github.com/mihirwatrana371 | LinkedIn: www.linkedin.com/in/mihir-watrana-1635a1314
+GitHub: https://github.com/mihirwatrana371 | LinkedIn: www.linkedin.com/in/mihir-watrana-1635a1314 | Website: https://mihirwatrana371.github.io
