@@ -66,9 +66,40 @@ S&P500-Portfolio-Analysis/
 | **05_forecasting.ipynb**   | Predict future prices using ARIMA models |
 | **06_dashboard_summary.ipynb** | Final visuals comparing portfolios vs market |
 | **07_oracle_predictive_model.ipynb** | Predictive modeling focused on Oracle Corp |
+---
+![cumulative_returns_top_stocks](https://github.com/user-attachments/assets/fddd3bd2-5610-4d3c-a937-8850560e3538)
+![daily_return_distrvutions](https://github.com/user-attachments/assets/45b03dbf-3ac9-422f-80e7-0b6129a3f293)
+![orcl_prediction_random_forest](https://github.com/user-attachments/assets/f7eab7a1-fbeb-4708-828b-1ee039115899)
 
 ---
+🔹 Excel Dashboard
+![Screenshot 2025-06-13 140221](https://github.com/user-attachments/assets/957d8dde-dbae-4c14-abb7-a5218c588529)
 
+Open reports/dashboard.xlsx
+Explore:
+
+Portfolio KPIs
+
+Performance Charts
+
+Filter using slicers
+
+Read insights in Insights tab
+| Sheet Name              | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Portfolio Overview**  | KPIs like Total Return, CAGR, Sharpe Ratio, Volatility, and Annual Return   |
+| **Performance Charts**  | Line plots, Sector trends, Volatility bars, Stacked bar charts              |
+| **Slicers**             | Interactive filters by Stock, Sector, or Year                               |
+| **Insights**            | Actionable takeaways and strategy summaries (linked to portfolio_insights)  |
+| **Pivot Data**          | Supporting pivot tables (hidden or moved for clean layout)                  |
+
+--- 
+
+📂 Dataset Used
+Kaggle: All Stocks 5yr: https://www.kaggle.com/datasets/camnugent/sandp500
+
+Filtered for S&P 500 tickers and joined with sector info.
+---
 
 📌 Author
 Mihir Watrana
