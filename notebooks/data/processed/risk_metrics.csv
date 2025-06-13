@@ -1,0 +1,4 @@
+,Volatality,Sharpe Ratio,Max Drawdown
+GOOGL,0.22033235047669253,0.8930898700688716,<function calculate_max_drawdown at 0x000001C52E37A7A0>
+MSFT,0.2255795014775892,1.0497242760414487,<function calculate_max_drawdown at 0x000001C52E37A7A0>
+ORCL,0.20655126996915393,0.3095871384224637,<function calculate_max_drawdown at 0x000001C52E37A7A0>
