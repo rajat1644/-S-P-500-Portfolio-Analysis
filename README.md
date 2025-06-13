@@ -77,6 +77,7 @@ S&P500-Portfolio-Analysis/
 
 Open reports/dashboard.xlsx
 Explore:
+![Screenshot 2025-06-13 143659](https://github.com/user-attachments/assets/e9d274b7-b4f5-4f12-8d5d-788b634d1b69)
 
 Portfolio KPIs
 
@@ -85,6 +86,8 @@ Performance Charts
 Filter using slicers
 
 Read insights in Insights tab
+![Screenshot 2025-06-13 143809](https://github.com/user-attachments/assets/3e23b24c-b083-411c-9fb2-c952948d106d)
+
 | Sheet Name              | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | **Portfolio Overview**  | KPIs like Total Return, CAGR, Sharpe Ratio, Volatility, and Annual Return   |
