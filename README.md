@@ -21,6 +21,34 @@ This project demonstrates a complete end-to-end **portfolio analysis** workflow 
 - 📎 Visual and Excel-based dashboard reporting
 
 ---
+
+🔹 Excel Dashboard
+![image](https://github.com/user-attachments/assets/2df268a0-3ae0-4011-88e8-1616844f12b6)
+https://docs.google.com/spreadsheets/d/1Oymgd1NdAhO7O8nCAsmE_sSasiigM_0y/edit?usp=drive_link&ouid=115948583404848312562&rtpof=true&sd=true
+
+
+Open reports/dashboard.xlsx
+Explore:
+![Screenshot 2025-06-13 143659](https://github.com/user-attachments/assets/e9d274b7-b4f5-4f12-8d5d-788b634d1b69)
+
+Portfolio KPIs
+
+Performance Charts
+
+Filter using slicers
+
+Read insights in Insights tab
+![Screenshot 2025-06-13 143809](https://github.com/user-attachments/assets/3e23b24c-b083-411c-9fb2-c952948d106d)
+
+| Sheet Name              | Description                                                                 |
+|-------------------------|-----------------------------------------------------------------------------|
+| **Portfolio Overview**  | KPIs like Total Return, CAGR, Sharpe Ratio, Volatility, and Annual Return   |
+| **Performance Charts**  | Line plots, Sector trends, Volatility bars, Stacked bar charts              |
+| **Slicers**             | Interactive filters by Stock, Sector, or Year                               |
+| **Insights**            | Actionable takeaways and strategy summaries (linked to portfolio_insights)  |
+| **Pivot Data**          | Supporting pivot tables (hidden or moved for clean layout)                  |
+
+--- 
 ## 📂 Folder Structure
 S&P500-Portfolio-Analysis/
 ├── data/ # Raw and cleaned datasets
@@ -72,33 +100,7 @@ S&P500-Portfolio-Analysis/
 ![orcl_prediction_random_forest](https://github.com/user-attachments/assets/f7eab7a1-fbeb-4708-828b-1ee039115899)
 
 ---
-🔹 Excel Dashboard
-![image](https://github.com/user-attachments/assets/2df268a0-3ae0-4011-88e8-1616844f12b6)
-https://docs.google.com/spreadsheets/d/1Oymgd1NdAhO7O8nCAsmE_sSasiigM_0y/edit?usp=drive_link&ouid=115948583404848312562&rtpof=true&sd=true
 
-
-Open reports/dashboard.xlsx
-Explore:
-![Screenshot 2025-06-13 143659](https://github.com/user-attachments/assets/e9d274b7-b4f5-4f12-8d5d-788b634d1b69)
-
-Portfolio KPIs
-
-Performance Charts
-
-Filter using slicers
-
-Read insights in Insights tab
-![Screenshot 2025-06-13 143809](https://github.com/user-attachments/assets/3e23b24c-b083-411c-9fb2-c952948d106d)
-
-| Sheet Name              | Description                                                                 |
-|-------------------------|-----------------------------------------------------------------------------|
-| **Portfolio Overview**  | KPIs like Total Return, CAGR, Sharpe Ratio, Volatility, and Annual Return   |
-| **Performance Charts**  | Line plots, Sector trends, Volatility bars, Stacked bar charts              |
-| **Slicers**             | Interactive filters by Stock, Sector, or Year                               |
-| **Insights**            | Actionable takeaways and strategy summaries (linked to portfolio_insights)  |
-| **Pivot Data**          | Supporting pivot tables (hidden or moved for clean layout)                  |
-
---- 
 
 📂 Dataset Used
 Kaggle: All Stocks 5yr: https://www.kaggle.com/datasets/camnugent/sandp500
