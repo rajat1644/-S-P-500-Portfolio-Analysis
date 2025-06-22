@@ -74,6 +74,7 @@ S&P500-Portfolio-Analysis/
 ---
 🔹 Excel Dashboard
 ![image](https://github.com/user-attachments/assets/2df268a0-3ae0-4011-88e8-1616844f12b6)
+https://docs.google.com/spreadsheets/d/1Oymgd1NdAhO7O8nCAsmE_sSasiigM_0y/edit?usp=drive_link&ouid=115948583404848312562&rtpof=true&sd=true
 
 
 Open reports/dashboard.xlsx
