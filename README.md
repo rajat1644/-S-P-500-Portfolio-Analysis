@@ -38,7 +38,8 @@ Performance Charts
 Filter using slicers
 
 Read insights in Insights tab
-![Screenshot 2025-06-13 143809](https://github.com/user-attachments/assets/3e23b24c-b083-411c-9fb2-c952948d106d)
+<img width="537" height="377" alt="image" src="https://github.com/user-attachments/assets/8c40c4f7-1507-4a34-b136-1bb2d6aac774" />
+
 
 | Sheet Name              | Description                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -49,6 +50,10 @@ Read insights in Insights tab
 | **Pivot Data**          | Supporting pivot tables (hidden or moved for clean layout)                  |
 
 --- 
+## SQL Schemas
+<img width="1013" height="590" alt="image" src="https://github.com/user-attachments/assets/8144b2a0-2a36-4e37-817a-d15a73678d84" />
+
+---
 ## 📂 Folder Structure
 S&P500-Portfolio-Analysis/
 ├── data/ # Raw and cleaned datasets
